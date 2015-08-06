@@ -1,0 +1,1 @@
+Inititalizing a repository simply builds the structure necessary to start adding the info
