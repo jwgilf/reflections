@@ -1,0 +1,5 @@
+CF for windows (shows only the lines that different - less detail)
+DIFF for MAC/Linux (shows the entire file with - for old and + for new if there are lines with differences)
+
+
+Version control could help you easily find bugs or revert to earlier functionality if the changes didn't "make the cut even functioning as intended"
